@@ -1,0 +1,28 @@
+#banner{
+    display: flex;
+}
+
+
+#banner .banner__image{
+    background-image: url(/images/illustration-1.svg);
+    background-size: cover;
+    flex: 1;
+}
+
+#banner .banner__content{
+    flex: 1;
+}
+
+#stay-productive{
+    display:flex;
+}
+
+#stay-productive .stay-productive__content{
+    flex:1;
+}
+
+
+#stay-productive .stay-productive__image{
+    background-image: url(/images/illustration-1.svg);
+    flex:1;
+}
